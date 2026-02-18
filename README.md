@@ -12,16 +12,18 @@ Trabajo como **Analista de Datos** en el área de **Seguridad de Hero Motos**, d
 
 ## Tecnologías y herramientas que uso
 **Lenguajes y Frameworks:**  
-- Python (Pandas, NumPy, Matplotlib, Django, FastAPI).  
+- Python para análisis de datos (Pandas, NumPy, Matplotlib).
+- Python para desarrollo backend (Django, FastAPI).  
 - SQL.  
 - JavaScript (Next.js, React).
 
 **Herramientas y Plataformas:**  
 - Excel avanzado.
 - Looker Studio.  
-- Power BI  
+- Power BI.  
 - n8n (automatización de flujos de trabajo).
 - AWS.
+- Supabase.
 
 **Actualmente aprendiendo:** Cloud Computing, Data Engineering y desarrollo de agentes de IA.
 
