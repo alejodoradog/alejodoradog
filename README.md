@@ -1,29 +1,29 @@
-# 👋 ¡Hola! Soy David Alejandro Dorado Garay  
+# ¡Hola! Soy David Alejandro Dorado Garay  
 
-🎓 Ingeniero Electrónico graduado de la **Pontificia Universidad Javeriana de Cali**, apasionado por los **datos**, la **automatización de procesos**, la **inteligencia artificial** y la **creación de soluciones tecnológicas escalables**.  
+Soy Ingeniero Electrónico graduado de la **Pontificia Universidad Javeriana de Cali**, apasionado por los **datos**, la **automatización de procesos**, la **inteligencia artificial** y la **creación de soluciones tecnológicas escalables**.  
 Mi propósito es transformar información en decisiones estratégicas mediante herramientas modernas de análisis y automatización.  
 
 ---
 
-## 💼 Actualmente
+## Actualmente
 Trabajo como **Analista de Datos** en el área de **Seguridad de Hero Motos**, donde diseño y desarrollo flujos automatizados, dashboards y soluciones que permiten monitorear y optimizar procesos internos de la planta.
 
 ---
 
-## ⚙️ Tecnologías y herramientas que uso
-🧠 **Lenguajes y Frameworks:**  
-- Python (Pandas, NumPy, Matplotlib, Django)  
-- SQL  
-- JavaScript (React)
+## Tecnologías y herramientas que uso
+**Lenguajes y Frameworks:**  
+- Python (Pandas, NumPy, Matplotlib, Django, FastAPI).  
+- SQL.  
+- JavaScript (Next.js, React).
 
-📊 **Herramientas y Plataformas:**  
-- Excel avanzado  
-- Looker Studio  
+**Herramientas y Plataformas:**  
+- Excel avanzado.
+- Looker Studio.  
 - Power BI  
-- n8n (automatización de flujos de trabajo)  
-- Streamlit  
+- n8n (automatización de flujos de trabajo).
+- AWS.
 
-☁️ **Actualmente aprendiendo:** Cloud Computing, Data Engineering y desarrollo de agentes de IA.
+**Actualmente aprendiendo:** Cloud Computing, Data Engineering y desarrollo de agentes de IA.
 
 ---
 
@@ -63,5 +63,3 @@ Mis metas actuales incluyen:
 🌐 **GitHub:** [github.com/DavidDoradoGaray](https://github.com/alejodoradog)  
 
 ---
-
-⭐ *“La automatización no reemplaza la inteligencia humana, la amplifica.”*  
