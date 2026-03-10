@@ -1,4 +1,4 @@
-#David Alejandro Dorado Garay  
+# David Alejandro Dorado Garay  
 
 Soy Ingeniero Electrónico graduado de la **Pontificia Universidad Javeriana de Cali**, apasionado por los **datos**, la **automatización de procesos**, la **inteligencia artificial** y la **creación de soluciones tecnológicas escalables**.  
 Mi propósito es transformar información en decisiones estratégicas mediante herramientas modernas de análisis y automatización.  
